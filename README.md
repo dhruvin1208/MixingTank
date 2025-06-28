@@ -71,7 +71,7 @@ Tested in **PLCSIM Advanced** with all sensors simulated via Watch Tables and Si
 
 See folders:
 - `/PLC_Logic/`: SPS logic in ST & LAD (text-based)
-- `/HMI_Screens/`: Layout sketch and tags
+- `/HMI_Screens/`: Layout sketch and tags (currently not available)
 - `/Documentation/`: Norm compliance & control documentation
 
 ---
